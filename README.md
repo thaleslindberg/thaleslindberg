@@ -1,7 +1,8 @@
-### Hi there 👋
+
 
 <!--
 **thaleslindberg/thaleslindberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
 
 Here are some ideas to get you started:
 
@@ -15,11 +16,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h4 align="center">
-  Hello guys, I'm Thales!🛸
-</h4>
-
 <p align="center">
   <img src="https://github.com/thaleslindberg/thaleslindberg/blob/master/.github/assets/card.png" width="100%"
   alt="thales-card" />
-<br>
+
+<h4 align="center">
+  As you can see my name is on the card and I'm a student of Information Systems and here it is my <a href="http://thaleslindberg.github.io" alt="personal-website" target="_blank"> personal website</a> 🔗
+</h4>
+
+<h4 align="center">
+  I’m currently learning React 👨‍💻
+</h4>
+
+<h4 align="center">
+  Based in Brazil 📌
+</h4>
+
+<h4 align="center">
+  Passionate about tech, music and movies 🛸
+</h4>
+
+<h4 align="center">
+  Before I forget you can reach me at <a href="mailto:thales.lindberg@gmail.com" alt="email" target="_blank"> email</a> 📫
+</h4>
