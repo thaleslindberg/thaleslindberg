@@ -18,3 +18,8 @@ Here are some ideas to get you started:
 <h4 align="center">
   Hello guys, I'm Thales!🛸
 </h4>
+
+<p align="center">
+  <img src="https://github.com/thaleslindberg/thaleslindberg/blob/master/.github/assets/card.png" width="100%"
+  alt="thales-card" />
+<br>
