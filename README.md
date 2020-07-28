@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 </h4>
 
 <p align="center">
-  <img src="https://github.com/thaleslindberg/thaleslindberg/blob/master/.github/assets/card.png" width="100%"
+  <img src="https://github.com/thaleslindberg/thaleslindberg/blob/master/.github/assets/undraw_mobile_messages_u8481.png" width="100%"
   alt="thales-card" />
 
 
