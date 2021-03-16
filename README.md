@@ -15,12 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <img src="https://github.com/thaleslindberg/thaleslindberg/blob/master/.github/assets/undraw_mobile_messages_u8481.png" width="100%"
-  alt="thales-card" /><br>
   
 <h4 align="center">
-  As you can see my name and what I do is on the card above. Here it is my <a href="http://thaleslindberg.github.io" alt="personal-website" target="_blank"> personal website</a> 🔗
+  Web Developer and Designer UI. Here it is my <a href="http://thaleslindberg.github.io" alt="personal-website" target="_blank"> personal website</a> 🔗
 </h4>
 
 <h4 align="center">
