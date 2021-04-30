@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </h4>
 
 <h4 align="center">
-  Before I forget you can contact me at 
+  Before I forget you can reach me at 
   <a href="mailto:thales.lindberg@gmail.com" alt="email" target="_blank"> email</a> 📫
 </h4>
 
